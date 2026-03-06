@@ -1,0 +1,62 @@
+/* [project]/src/app/(root)/atm-cards/+__(components)/Card.css [app-client] (css) */
+.credit-card {
+  color: #fff;
+  background-color: #000;
+  border-radius: .5rem;
+  flex-direction: column;
+  width: 450px;
+  height: 250px;
+  padding: 30px;
+  transition: all .5s ease-in-out;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 20px 25px -5px #0000001a, 0 8px 10px -6px #0000001a;
+}
+
+.head, .number, .tail {
+  z-index: 1;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+  display: flex;
+}
+
+.head {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.number {
+  margin-top: auto;
+  margin-bottom: .3rem;
+  font-size: 2.1rem;
+  font-weight: bold;
+}
+
+.exp {
+  font-size: .8rem;
+}
+
+.exp-date {
+  color: #d4d4d8;
+  font-size: 1.3rem;
+}
+
+.circle1 {
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  transform: translateY(-60%)translateX(100%);
+}
+
+.circle2 {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  transform: translateY(190%);
+}
+
+/*# sourceMappingURL=src_app_%28root%29_atm-cards_%2B__%28components%29_Card_3b7135cb.css.map*/

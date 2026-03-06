@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/kono-banking-application/frontend/src/app/%28root%29/page.js"],"sourcesContent":["\"use client\";\n\nimport React from \"react\";\n\nconst HomePage = () => {\n  return (\n    <div className=\"min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50 flex items-center justify-center px-6\">\n      \n      <div className=\"bg-white shadow-2xl rounded-3xl p-12 max-w-3xl text-center border border-gray-100\">\n        \n        <div className=\"h-1 w-24 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-full mb-8 mx-auto\"></div>\n\n        <h1 className=\"text-4xl font-bold text-gray-900 mb-6\">\n          Welcome to Kono Bank 🏦\n        </h1>\n\n        <p className=\"text-gray-600 text-lg leading-relaxed\">\n          Your secure and modern digital banking solution.  \n          Experience fast transactions, enterprise-grade security,  \n          and scalable financial management.\n        </p>\n\n      </div>\n\n    </div>\n  );\n};\n\nexport default HomePage;"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIA,MAAM,WAAW;IACf,qBACE,6LAAC;QAAI,WAAU;kBAEb,cAAA,6LAAC;YAAI,WAAU;;8BAEb,6LAAC;oBAAI,WAAU;;;;;;8BAEf,6LAAC;oBAAG,WAAU;8BAAwC;;;;;;8BAItD,6LAAC;oBAAE,WAAU;8BAAwC;;;;;;;;;;;;;;;;;AAU7D;KAtBM;uCAwBS"}}]
+}
