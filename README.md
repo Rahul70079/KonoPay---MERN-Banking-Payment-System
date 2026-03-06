@@ -1,6 +1,6 @@
 # 💳 KonoPay - MERN Banking & Payment System
 
-KonoPay is a **secure and modern digital banking & payment platform** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+KonoPay is a **secure and modern digital banking & payment platform** built using the **MERN Stack (MongoDB, Express.js, Next.js, Node.js)**.  
 It allows users to manage accounts, transfer money, and track transactions in a seamless and secure environment.
 
 ---
