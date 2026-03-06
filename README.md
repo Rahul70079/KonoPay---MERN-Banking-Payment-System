@@ -127,16 +127,6 @@ Add your project screenshots here
 <img width="1913" height="887" alt="Screenshot 2026-02-28 103535" src="https://github.com/user-attachments/assets/4a3bc68b-ad06-447d-9f1d-4c42e5be41b6" />
 <img width="1915" height="883" alt="Screenshot 2026-02-28 103623" src="https://github.com/user-attachments/assets/c2099636-31a0-46cf-ad53-c46cbe83ee6e" />
 
-
-
-
-
-
-
-
-
-
-
 ```
 
 ---
