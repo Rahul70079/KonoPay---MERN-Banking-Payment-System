@@ -5,9 +5,6 @@ It allows users to manage accounts, transfer money, and track transactions in a 
 
 ---
 
-## 🔗 Live Demo
-https://vercel.com/rahul-kumars-projects-706e3199/kono-pay-mern-banking-payment-system
-
 ## 📸 Screenshots
 
 <img width="1910" height="881" alt="Screenshot 2026-02-27 222325" src="https://github.com/user-attachments/assets/95fe76b2-cf04-4533-a508-3dc3592d11c6" />
